@@ -7,6 +7,9 @@
 
 perplexity  .  ai
 
+chatgpt  .  com
+
+gemini . google . com
 
 پلتفرهای ایرانی :
 

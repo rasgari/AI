@@ -16,6 +16,6 @@ gapgpt  .  app
 هوشک
 hooshak  . com
 
-اول AI
+اول اِی اّی
 avalai   . ir
 

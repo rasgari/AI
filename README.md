@@ -13,12 +13,10 @@ gemini . google . com
 
 پلتفرهای ایرانی :
 
-گپ جی پی تی
+گ
 gapgpt  .  app
 
-هوشک
 hooshak  . com
 
-ول اِی آی
 avalai   . ir
 

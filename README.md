@@ -13,7 +13,7 @@ gemini . google . com
 
 پلتفرهای ایرانی :
 
-گ
+
 gapgpt  .  app
 
 hooshak  . com

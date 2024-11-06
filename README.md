@@ -5,11 +5,11 @@
 
 پلتفرهای خارجی :
 
-perplexity  .  ai
+perplexity.ai
 
-chatgpt  .  com
+chatgpt.com
 
-gemini . google . com
+gemini.google.com
 
 پلتفرهای ایرانی :
 
@@ -19,6 +19,8 @@ gapgpt  .  app
 hooshak  . com
 
 avalai   . ir
+
+
 
 ساده‌ترین راه حمایت از من کلیک کردن روی ستاره (⭐) بالای همین صفحه است.
 

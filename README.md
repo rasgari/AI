@@ -5,9 +5,9 @@
 
 پلتفرهای خارجی :
 
-perplexity.ai
+===>>> chatgpt.com <<<===
 
-chatgpt.com
+perplexity.ai
 
 gemini.google.com
 

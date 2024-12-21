@@ -15,9 +15,9 @@
 
 ===>>> chatgpt.com <<<===
 
-perplexity.ai
+===>>> perplexity.ai
 
-gemini.google.com
+===>>> gemini.google.com
 
 ==================================================
 

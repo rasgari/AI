@@ -3,8 +3,11 @@
 
 
 بدافزار :
-===>>>  wormgpt <<<===
+
+===>>>  wormgpt  <<<===
+
 ===>>>  wolfgpt
+
 ===>>>  ghostgpt
 
 

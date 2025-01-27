@@ -15,9 +15,9 @@
 پلتفرهای خارجی :
 
 
-===>>> chatgpt.com <<<===
+===>>> www.chatgpt.com <<<===
 
-===>>> www.deepseek.com 
+===>>> https://deepseek.com 
 
 ===>>> perplexity.ai
 

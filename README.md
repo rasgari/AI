@@ -15,17 +15,17 @@
 پلتفرهای خارجی :
 
 
-===>>> www.chatgpt.com <<<===
+===>>> https://chatgpt.com <<<===
 
 ===>>> https://deepseek.com 
 
-===>>> perplexity.ai
+===>>> https://perplexity.ai
 
-===>>> gemini.google.com
+===>>> https://gemini.google.com
 
-===>>> grok.com
+===>>> https://grok.com
 
-===>>> platform.openai.com
+===>>> https://platform.openai.com
 
 ==================================================
 

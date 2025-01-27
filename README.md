@@ -17,6 +17,8 @@
 
 ===>>> chatgpt.com <<<===
 
+===>>> www.deepseek.com 
+
 ===>>> perplexity.ai
 
 ===>>> gemini.google.com

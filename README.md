@@ -27,8 +27,11 @@
 
 ===>>> https://platform.openai.com
 
-بیشتر از ۴۰۰ هزار مدل هوش مصنوعی برای کارهای مختلف
 ===>>> https://huggingface.co/spaces
+
+===>>> https://www.getonit.ai/
+===>>> https://github.com/synth-inc/onit
+
 ==================================================
 
 

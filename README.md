@@ -21,7 +21,7 @@
 ===>>> https://deepseek.com 
 
 ===>>> https://perplexity.ai
-===>>> https://www.perplexity.ai/comet
+===>>> https://www.perplexity.ai/comet ===>>> browser
 
 
 ===>>> https://gemini.google.com

@@ -29,7 +29,7 @@
 ===>>> https://platform.openai.com
 
 ===>>> https://huggingface.co/spaces
-
+===>>> https://www.phind.com/
 ===>>> Duck.ai ===>>> https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1 <<<===
 
 ===>>> https://www.getonit.ai/

@@ -34,6 +34,8 @@
 ===>>> https://www.phind.com/
 ===>>> Duck.ai ===>>> https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1 <<<===
 
+===>>> https://copilot.microsoft.com
+
 ===>>> https://www.getonit.ai/
 ===>>> https://github.com/synth-inc/onit
 

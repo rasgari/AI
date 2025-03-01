@@ -70,6 +70,9 @@ https://outread.ai
 
 https://storm.genie.stanford.edu
 
+https://www.connectedpapers.com
+
+
 ==================================================
 --->>> ChatGPT ➜ تولید متن و پاسخ به سوالات
 

@@ -74,6 +74,14 @@ https://www.connectedpapers.com
 
 
 ==================================================
+
+
+ افزونه همدست؛ دستیار فارسی هوش مصنوعی
+
+https://chromewebstore.google.com/detail/hamdast-chatgpt-rtl-persi/lmfekemieicijlllcbbcfbeepmpfiedb
+
+ ==================================================
+
 --->>> ChatGPT ➜ تولید متن و پاسخ به سوالات
 
 

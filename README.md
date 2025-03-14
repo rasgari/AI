@@ -18,6 +18,7 @@
 ===>>> https://chatgpt.com <<<===
 ===>>> https://grow.google/career-dreamer/home/
 ===>>> https://google.com/aimode
+===>>> aistudio.google  
 ===>>> https://deepseek.com 
 
 ===>>> https://perplexity.ai

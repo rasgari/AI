@@ -16,13 +16,19 @@
 
 
 ===>>> https://chatgpt.com <<<===
+
 ===>>> https://grow.google/career-dreamer/home/
+
 ===>>> https://google.com/aimode
+
 ===>>> http://aistudio.google.com  
+
 ===>>> https://deepseek.com 
 
 ===>>> https://perplexity.ai
+
 ===>>> https://www.perplexity.ai/comet ===>>> browser
+
 ===>>> https://youlearn.ai
 
 ===>>> https://gemini.google.com
@@ -32,12 +38,15 @@
 ===>>> https://platform.openai.com
 
 ===>>> https://huggingface.co/spaces
+
 ===>>> https://www.phind.com/
+
 ===>>> Duck.ai ===>>> https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1 <<<===
 
 ===>>> https://copilot.microsoft.com
 
 ===>>> https://www.getonit.ai/
+
 ===>>> https://github.com/synth-inc/onit
 
 ==================================================

@@ -52,6 +52,11 @@
 
 ===>>> https://github.com/synth-inc/onit
 
+
+تولید محتوا
+
+detectable.ai
+===>>> humanizer.pro <<<===
 ==================================================
 
 

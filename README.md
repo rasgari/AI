@@ -97,6 +97,8 @@ https://www.connectedpapers.com
 
 آنالیزهای هوش مصنوعی
 https://artificialanalysis.ai/
+
+
 ==================================================
 
 

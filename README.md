@@ -11,12 +11,16 @@
 ===>>>  ghostgpt
 
 
-===>>> https://agent.ai/ <<<=== ===>>> job <<<===
+===>>> [agent](https://agent.ai/) <<<=== ===>>> job <<<===
 
 
 
 پلتفرهای خارجی :
 
+
+
+===>>> [ felo ](https://felo.ai) <<<===
+===>>> [ kimi ](https://kimi.ai) <<<===
 
 ===>>> https://chatgpt.com <<<===
 

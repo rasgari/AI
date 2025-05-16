@@ -65,7 +65,12 @@ redactai.io
 undetectable.ai
 ===>>> humanizer.pro <<<===
 
+سند PDF
+[ PDF RESEARCH ](pdfsearch.io)
 
+
+تولید اسلاید برای ارائه
+[ PowerPoint](pageon.ai)
 
 ==================================
 https://answersai.com/

@@ -83,6 +83,40 @@ mapify.so
 chat mind
 gamma.app.com
 
+=================================
+
+
+
+🔗 https://hix.ai
+
+🔗 https://claude.ai
+
+🔗 https://chatgpt.com
+
+🔗 https://chat.qwen.ai
+
+🔗 https://chat.mistral.ai
+
+🔗 https://talkai.info/chat
+
+🔗 https://julius.ai/models
+
+🔗 https://deepai.org/chat
+
+🔗 https://www.aichatting.net
+
+🔗 https://chat.deepseek.com
+
+🔗 https://aistudio.google.com
+
+🔗 https://copilot.microsoft.com
+
+🔗 https://gemini.google.com/app
+
+🔗 https://notebooklm.google.com
+
+🔗 https://overchat.ai/chat/best-free-ai-chat
+
 
 =================================
 

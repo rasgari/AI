@@ -19,6 +19,8 @@
 
 
 
+===>>> [ ai student ](https://one.google.com/join/ai-student) <<<=== ===>>> pro
+
 ===>>> [ felo ](https://felo.ai) <<<===
 
 ===>>> [ kimi ](https://kimi.ai) <<<===

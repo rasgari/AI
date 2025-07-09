@@ -25,39 +25,41 @@
 
 ===>>> [ kimi ](https://kimi.ai) <<<===
 
-===>>> https://chatgpt.com <<<===
+===>>> [ chatgpt ](https://chatgpt.com) <<<===
 
-===>>> https://grow.google/career-dreamer/home/
+===>>> [ grow.google ](https://grow.google/career-dreamer/home/)
 
-===>>> https://google.com/aimode
+===>>> [ aimode ](https://google.com/aimode)
 
-===>>> http://aistudio.google.com  
+===>>> [ aistudio ](http://aistudio.google.com) 
 
-===>>> https://deepseek.com 
+===>>> [ deepseek ](https://deepseek.com )
 
-===>>> https://perplexity.ai
+===>>> [ aixploria ](https://www.aixploria.com/en/)
 
-===>>> https://www.perplexity.ai/comet ===>>> browser
+===>>> [ perplexity ](https://perplexity.ai)
 
-===>>> https://youlearn.ai
+===>>> [ perplexity ](https://www.perplexity.ai/comet) ===>>> browser
 
-===>>> https://gemini.google.com
+===>>> [ youlearn ](https://youlearn.ai)
 
-===>>> https://grok.com
+===>>> [ gemini ](https://gemini.google.com)
 
-===>>> https://platform.openai.com
+===>>> [ grok ](https://grok.com)
 
-===>>> https://huggingface.co/spaces
+===>>> [ platform.openai ](https://platform.openai.com)
 
-===>>> https://www.phind.com/
+===>>> [ huggingface ](https://huggingface.co/spaces)
 
-===>>> Duck.ai ===>>> https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1 <<<===
+===>>> [ phind ](https://www.phind.com/)
 
-===>>> https://copilot.microsoft.com
+===>>> [ Duck.ai ](Duck.ai) ===>>> https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1 <<<===
 
-===>>> https://www.getonit.ai/
+===>>> [ copilot.microsoft ](https://copilot.microsoft.com)
 
-===>>> https://github.com/synth-inc/onit
+===>>> [ getonit ](https://www.getonit.ai/)
+
+===>>> [ synth-inc ](https://github.com/synth-inc/onit)
 
 تولید محتوای لینکدین:
 redactai.io
@@ -94,11 +96,16 @@ Mapify.so
  درخت محتوا و نقشه ذهنی آن را به دست آورید!
 
 =================================
-ninite
-prezi.com
-mapify.so
-chat mind
-gamma.app.com
+
+===>>> ninite
+
+===>>> prezi.com
+
+===>>> mapify.so
+
+===>>> chat mind
+
+===>>> gamma.app.com
 
 =================================
 

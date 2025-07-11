@@ -74,7 +74,8 @@ undetectable.ai
 
 
 تولید اسلاید برای ارائه
-[ PowerPoint](pageon.ai)
+[ PowerPoint ](pageon.ai)
+[ slidesgpt ](slidesgpt.com)
 
 ==================================
 

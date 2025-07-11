@@ -77,6 +77,18 @@ undetectable.ai
 [ PowerPoint ](pageon.ai)
 [ slidesgpt ](slidesgpt.com)
 
+
+==================================
+PDF ===>>> chatpdf
+
+PROMPT ===>> promptify.ai
+
+LOGO ===>>> ailogomaker.io
+
+ENGLISH LANGUAGE ===>>> pi.ai
+
+
+
 ==================================
 
 

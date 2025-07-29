@@ -19,6 +19,28 @@
 
 ==============================
 
+🔻ابزارهای هوش مصنوعی رایگان در برابر پولی!                                               
+و این هم لینک ابزار های رایگان:
+1. DeepSeek
+https://www.deepseek.com
+
+2. Leonardo AI
+https://www.leonardo.ai
+
+3. Speechma
+https://www.speechma.com
+
+4. Gamma
+https://www.gamma.app
+
+5. Microsoft Designer
+https://www.designer.microsoft.com
+
+6. Suno AI
+https://www.suno.ai
+
+==============================
+
 ===>>> [agent](https://agent.ai/) <<<=== ===>>> job <<<===
 
 

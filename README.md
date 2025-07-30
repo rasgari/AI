@@ -24,6 +24,15 @@
 1. DeepSeek
 https://www.deepseek.com
 
+چین دوباره یه مدل اوپن سورس برگ ریزون  
+دیگه معرفی کرده! در حد Grok 4 عمل می‌کنه، شرکت های غول آمریکایی خواب راحت ندارن !
+
+تست ژیپو :
+chat.z.ai
+توضیحات بیشتر :
+z.ai/blog/glm-4.5
+
+
 2. Leonardo AI
 https://www.leonardo.ai
 

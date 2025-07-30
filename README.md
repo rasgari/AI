@@ -32,6 +32,7 @@ chat.z.ai
 توضیحات بیشتر :
 z.ai/blog/glm-4.5
 
+chatcraft.org
 
 2. Leonardo AI
 https://www.leonardo.ai
